@@ -6,7 +6,7 @@ Exposed is a disposable camera themed iOS photo app created as aortion of my Ari
 
 <img  src="photoExposed.png" border="0" width="351" height="468">
 
-<img  src="photoExposed2.jpg" border="0" width="351" height="468">
+<img  src="photoExposed2.JPG" border="0" width="351" height="468">
 
 
 
