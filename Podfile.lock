@@ -1,0 +1,16 @@
+PODS:
+  - SwiftPhotoGallery (3.4.1)
+
+DEPENDENCIES:
+  - SwiftPhotoGallery
+
+SPEC REPOS:
+  trunk:
+    - SwiftPhotoGallery
+
+SPEC CHECKSUMS:
+  SwiftPhotoGallery: 795b79e2596beb160fb978e232603da0811006ce
+
+PODFILE CHECKSUM: 737b75444f05df22e2c001108543e2e0ffce035a
+
+COCOAPODS: 1.8.4
